@@ -45,7 +45,7 @@ Sou um profissional de **Tecnologia da Informação** com mais de 7 anos de expe
 
 ---
 
-### 💅 Estilização e Extras (se aplicável)
+### 💅 Estilização e Extras
 
 [![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Prisma ORM](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)](https://www.prisma.io/)
