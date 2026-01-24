@@ -6,7 +6,6 @@ Sou um profissional de **Tecnologia da Informação** com mais de 7 anos de expe
 
 ### 🚀 Sobre mim
 
-- 🔭 Atualmente, estou desenvolvendo o **[linkii.me](https://linkii.me)**, um agregador de links gamificado inspirado no Linktree.
 - 📚 Estudando **Ciência da Computação** na UFF.
 - 🎯 Interessado em oportunidades na área de **Gestão de TI** e focado em expandir minha presença no setor de tecnologia.
 
