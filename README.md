@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://preview.mavsleo.com.br/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+IT+Consultant;Full+Stack+Developer;7%2B+Years+of+Experience;Scalable+%26+Secure+Applications;Business-Oriented+Solutions;UX-Oriented+Solutions;If+it+needs+training+it’s+not+intuitive" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+IT+Consultant;Full+Stack+Developer;7%2B+Years+of+Experience;Scalable+%26+Secure+Applications;Business-Oriented+Solutions;UX-Oriented+Solutions;If+it+needs+training+its+not+intuitive" />
   </a>
 </p>
 
