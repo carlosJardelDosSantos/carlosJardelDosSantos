@@ -1,84 +1,134 @@
-# 👋 Olá! Eu sou Carlos Jardel!
+<h1 align="center">Hi 👋, I'm Carlos Jardel</h1>
 
-Sou um profissional de **Tecnologia da Informação** com mais de 7 anos de experiência. Minha especialidade é na área de **hardware, software, redes, design gráfico e gestão de TI**. Atualmente, estou focado em aprimorar minhas habilidades de desenvolvimento de **ReactJS** e **Firebase**, e sempre em busca de novos desafios e conhecimentos.
-
----
-
-### 🚀 Sobre mim
-
-- 📚 Estudando **Ciência da Computação** na UFF.
-- 🎯 Interessado em oportunidades na área de **Gestão de TI** e focado em expandir minha presença no setor de tecnologia.
+<p align="center">
+  <a href="https://preview.mavsleo.com.br/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+IT+Consultant;Full+Stack+Developer;7%2B+Years+of+Experience;Scalable+%26+Secure+Applications;Business-Oriented+Solutions" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas Utilizadas
+## 🌐 Portfolio
 
-### 🧠 Linguagens e Frameworks
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-
-> Utilizamos React e Next.js para construir interfaces modernas com renderização híbrida (SSR/SSG), roteamento otimizado e excelente performance. TypeScript oferece maior segurança e organização no desenvolvimento.
+👉 https://preview.mavsleo.com.br/
 
 ---
 
-### 🗄️ Backend e Banco de Dados
+## 🚀 About Me
 
-[![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black)](https://supabase.com/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+I am a **Web Developer, Full Stack Developer, and IT Consultant** with over 7 years of experience in **Technology, IT Infrastructure, and Systems Administration**.
 
-> Supabase fornece backend completo com banco PostgreSQL, autenticação, APIs REST e WebSocket, além de integração fácil com Next.js. MySQL pode ser usado em módulos específicos que exijam estrutura relacional tradicional ou integração com sistemas legados.
+I specialize in building **scalable, secure, and high-performance web applications** using modern technologies like **React, Next.js, and TypeScript**.
 
----
+My background in **technical support, system integration, and infrastructure** allows me to develop solutions that go beyond code — focusing on **performance optimization, data security, and business impact**.
 
-### 🧰 Ferramentas de Desenvolvimento
-
-[![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn)](https://yarnpkg.com/)
-[![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
-
-> Utilizamos um ambiente moderno com VSCode, Git e Yarn/NPM. O deploy contínuo é feito com a plataforma Vercel, ideal para projetos Next.js com integração automática e previews instantâneos.
+I have experience in **healthcare IT and corporate environments**, where **high availability systems, reliability, and operational continuity** are essential.
 
 ---
 
-### 💅 Estilização e Extras
+## 💼 What I Do
 
-[![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Prisma ORM](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)](https://www.prisma.io/)
-
-> Tailwind CSS é usado para criar estilos com agilidade e consistência. Prisma pode ser integrado ao MySQL para facilitar a manipulação de dados com segurança e produtividade.
-
----
-
-### 📦 Stack Completo
-
-> ✅ **Frontend:** React + Next.js + Tailwind  
-> ✅ **Backend:** Supabase (Auth, Database, Storage)  
-> ✅ **Banco Adicional:** MySQL + Prisma (quando necessário)  
-> ✅ **Deploy:** Vercel (CI/CD automático)  
-> ✅ **Controle de Versão:** Git + GitHub
+• Web Development (React / Next.js / TypeScript)  
+• Full Stack Web Applications  
+• Responsive & High-Performance Websites  
+• IT Consulting & Technical Support  
+• System Integration & Infrastructure-aware development  
+• Business Automation & Workflow Optimization  
+• Performance Optimization & Scalable Systems  
 
 ---
 
+## 🧠 Tech Stack
 
-
----
-
-### 📈 Minhas Estatísticas no GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=OEncouracado&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OEncouracado&layout=compact&theme=radical)
+### 💻 Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ---
 
-### 💬 Vamos conversar!
-
-Se tiver interesse em discutir ideias, projetos ou oportunidades de colaboração, entre em contato comigo via [LinkedIn](https://www.linkedin.com/in/carlos-jardel-dos-santos).
+### 🗄️ Backend & Database
+![Neon](https://img.shields.io/badge/-NeonDB-00E599?style=for-the-badge&logo=postgresql&logoColor=black)
+![Clerk](https://img.shields.io/badge/-Clerk-3A3A3A?style=for-the-badge&logo=clerk&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ---
 
-**Obrigado pela visita e boas contribuições!**
+### ⚙️ Tools & DevOps
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 🔄 Architecture Evolution
+
+Currently migrating from **Supabase** to a modern **serverless architecture** using:
+
+⚡ **Neon (PostgreSQL Serverless Database)**  
+🔐 **Clerk (Authentication & User Management)**  
+
+This architecture improves:
+
+✔ Scalability  
+✔ Security & authentication control  
+✔ System reliability  
+✔ Clean system integration  
+✔ Production-ready environments  
+
+---
+
+## 💡 Real Business Impact
+
+I have developed **internal systems and business automation solutions** using **Google Apps Script and Google Sheets**.
+
+These solutions achieved:
+
+💰 Reduced over **$10,000/year in SaaS costs**  
+🔒 Improved **data security and reduced exposure risks**  
+⚙️ Automated workflows and operational processes  
+📈 Increased **operational efficiency and productivity**  
+
+This demonstrates my ability to deliver **business-oriented solutions**, not just technical implementations.
+
+---
+
+## 🏢 Professional Experience
+
+✔ Healthcare IT (high availability systems)  
+✔ Corporate IT infrastructure  
+✔ ERP systems & business operations  
+✔ Technical support & systems administration  
+
+I combine:
+
+👉 **Software Development + IT Infrastructure**  
+👉 **Technical Expertise + Business Understanding**  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OEncouracado&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OEncouracado&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://preview.mavsleo.com.br/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-jardel-dos-santos/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ *"Technology should solve business problems, not create them."*
