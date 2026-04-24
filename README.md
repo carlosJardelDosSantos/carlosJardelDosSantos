@@ -49,7 +49,7 @@ I have experience in **healthcare IT and corporate environments**, where **high 
 <br>
 
 ### 🗄️ Backend & Database
-![Neon](https://img.shields.io/badge/-NeonDB-00E599?style=for-the-badge&logo=postgresql&logoColor=black)
+![Neon](https://img.shields.io/badge/-NeonDB-00E599?style=for-the-badge&logo=https%3A%2F%2Fneon.com%2Ffavicon%2Ffavicon.svg&logoColor=black)
 ![Clerk](https://img.shields.io/badge/-Clerk-3A3A3A?style=for-the-badge&logo=clerk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
