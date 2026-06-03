@@ -1,44 +1,44 @@
-<h1 align="center">Hi 👋, I'm Carlos Jardel</h1>
+<h1 align="center">Olá 👋, eu sou Carlos Jardel</h1>
 
 <p align="center">
   <a href="https://preview.mavsleo.com.br/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+IT+Consultant;Full+Stack+Developer;7%2B+Years+of+Experience;Scalable+%26+Secure+Applications;Business-Oriented+Solutions;UX-Oriented+Solutions;If+it+needs+training%2C+it%E2%80%99s+not+intuitive+enough" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Web+%7C+Consultor+de+TI;Desenvolvedor+Full+Stack;7%2B+Anos+de+Experi%C3%AAncia;Aplica%C3%A7%C3%B5es+Escal%C3%A1veis+%26+Seguras;Solu%C3%A7%C3%B5es+Orientadas+a+Neg%C3%B3cios;Solu%C3%A7%C3%B5es+Orientadas+a+UX;Se+precisa+de+treinamento%2C+n%C3%A3o+%C3%A9+intuitivo+o+suficiente" />
   </a>
 </p>
 
 <br>
 
-<h2>🌐 Portfolio</h2>
+<h2>🌐 Portfólio</h2>
 
 👉 https://preview.mavsleo.com.br/
 
 <br>
 
-<h2>🚀 About Me</h2>
+<h2>🚀 Sobre Mim</h2>
 
-I am a **Web Developer, Full Stack Developer, and IT Consultant** with over 7 years of experience in **Technology, IT Infrastructure, and Systems Administration**.
+Sou **Desenvolvedor Web, Desenvolvedor Full Stack e Consultor de TI** com mais de 7 anos de experiência em **Tecnologia, Infraestrutura de TI e Administração de Sistemas**.
 
-I specialize in building **scalable, secure, and high-performance web applications** using modern technologies like **React, Next.js, and TypeScript**.
+Sou especializado em construir **aplicações web escaláveis, seguras e de alta performance** utilizando tecnologias modernas como **React, Next.js e TypeScript**.
 
-My background in **technical support, system integration, and infrastructure** allows me to develop solutions that go beyond code — focusing on **performance optimization, data security, and business impact**.
+Minha experiência em **suporte técnico, integração de sistemas e infraestrutura** me permite desenvolver soluções que vão além do código — com foco em **otimização de performance, segurança de dados e impacto nos negócios**.
 
-I have experience in **healthcare IT and corporate environments**, where **high availability systems, reliability, and operational continuity** are essential.
-
-<br>
-
-<h2>💼 What I Do</h2>
-
-• Web Development (React / Next.js / TypeScript)  
-• Full Stack Web Applications  
-• Responsive & High-Performance Websites  
-• IT Consulting & Technical Support  
-• System Integration & Infrastructure-aware development  
-• Business Automation & Workflow Optimization  
-• Performance Optimization & Scalable Systems  
+Tenho experiência em **TI na área da saúde e ambientes corporativos**, onde **sistemas de alta disponibilidade, confiabilidade e continuidade operacional** são essenciais.
 
 <br>
 
-<h2>🧠 Tech Stack</h2>
+<h2>💼 O Que Faço</h2>
+
+- Desenvolvimento Web (React / Next.js / TypeScript)  
+- Aplicações Web Full Stack  
+- Sites Responsivos e de Alta Performance  
+- Consultoria de TI e Suporte Técnico  
+- Integração de Sistemas e Desenvolvimento com Consciência de Infraestrutura  
+- Automação de Negócios e Otimização de Fluxos de Trabalho  
+- Otimização de Performance e Sistemas Escaláveis  
+
+<br>
+
+<h2>🧠 Stack Tecnológica</h2>
 
 ### 💻 Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -48,7 +48,7 @@ I have experience in **healthcare IT and corporate environments**, where **high 
 
 <br>
 
-### 🗄️ Backend & Database
+### 🗄️ Backend & Banco de Dados
 ![Neon](https://img.shields.io/badge/-NeonDB-00E599?style=for-the-badge&logo=https%3A%2F%2Fneon.com%2Ffavicon%2Ffavicon.svg&logoColor=black)
 ![Clerk](https://img.shields.io/badge/-Clerk-3A3A3A?style=for-the-badge&logo=clerk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -56,69 +56,71 @@ I have experience in **healthcare IT and corporate environments**, where **high 
 
 <br>
 
-### ⚙️ Tools & DevOps
+### ⚙️ Ferramentas & DevOps
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 <br>
 
-<h2>🔄 Architecture Evolution</h2>
+<h2>🔄 Evolução da Arquitetura</h2>
 
-Currently migrating from **Supabase** to a modern **serverless architecture** using:
+Atualmente migrando do **Supabase** para uma arquitetura moderna **serverless** utilizando:
 
-⚡ **Neon (PostgreSQL Serverless Database)**  
-🔐 **Clerk (Authentication & User Management)**  
+⚡ **Neon (Banco de Dados PostgreSQL Serverless)**  
+🔐 **Clerk (Autenticação e Gestão de Usuários)**  
 
-✔ Scalability  
-✔ Security & authentication control  
-✔ System reliability  
-✔ Clean system integration  
-✔ Production-ready environments  
-
-<br>
-
-<h2>💡 Real Business Impact</h2>
-
-I have developed **internal systems and business automation solutions** using **Google Apps Script and Google Sheets**.
-
-These solutions achieved:
-
-💰 Reduced over **$10,000/year in SaaS costs**  
-🔒 Improved **data security and reduced exposure risks**  
-⚙️ Automated workflows and operational processes  
-📈 Increased **operational efficiency and productivity**  
+✔ Escalabilidade  
+✔ Segurança e controle de autenticação  
+✔ Confiabilidade do sistema  
+✔ Integração limpa entre sistemas  
+✔ Ambientes prontos para produção  
 
 <br>
 
-<h2>🏢 Professional Experience</h2>
+<h2>💡 Impacto Real nos Negócios</h2>
 
-✔ Healthcare IT (high availability systems)  
-✔ Corporate IT infrastructure  
-✔ ERP systems & business operations  
-✔ Technical support & systems administration  
+Desenvolvi **sistemas internos e soluções de automação empresarial** utilizando **Google Apps Script e Google Sheets**.
 
-I combine:
+Essas soluções alcançaram:
 
-👉 **Software Development + IT Infrastructure**  
-👉 **Technical Expertise + Business Understanding**  
+💰 Redução de mais de **$10.000/ano em custos com SaaS**  
+🔒 Melhoria na **segurança de dados e redução de riscos de exposição**  
+⚙️ Automação de fluxos de trabalho e processos operacionais  
+📈 Aumento na **eficiência operacional e produtividade**  
 
 <br>
 
-<h2>🤝 Connect With Me</h2>
+<h2>🏢 Experiência Profissional</h2>
+
+✔ TI na área da saúde (sistemas de alta disponibilidade)  
+✔ Infraestrutura corporativa de TI  
+✔ Sistemas ERP e operações empresariais  
+✔ Suporte técnico e administração de sistemas  
+
+Combino:
+
+👉 **Desenvolvimento de Software + Infraestrutura de TI**  
+👉 **Expertise Técnica + Compreensão do Negócio**  
+
+<br>
+
+<h2>🤝 Conecte-se Comigo</h2>
 
 <p align="center">
   <a href="https://preview.mavsleo.com.br/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/carlos-jardel-dos-santos/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 <br>
-⭐ "I build solutions for people, not just systems."
 
-💡 "If it needs training, it’s not intuitive enough."
+⭐ "Construo soluções para pessoas, não apenas sistemas."
+
+💡 "Se precisa de treinamento, não é intuitivo o suficiente."
+
 <br>
 
-⭐ *"Technology should solve business problems, not create them."*
+⭐ *"A tecnologia deve resolver problemas de negócios, não criá-los."*
